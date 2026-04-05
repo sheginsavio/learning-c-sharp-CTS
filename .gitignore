@@ -1,0 +1,21 @@
+# Ignore Visual Studio user-specific files
+.vs/
+*.user
+*.userosscache
+*.suo
+
+# Build results
+bin/
+obj/
+
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Rider / VS Code settings (optional)
+.idea/
+.vscode/
+
+# Ignore .vs only inside C# Hands-On
+/C# Hands-On/.vs/

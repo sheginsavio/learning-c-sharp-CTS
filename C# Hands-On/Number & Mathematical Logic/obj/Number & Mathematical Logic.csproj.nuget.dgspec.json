@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SHEGIN SAVIO S S\\c_sharp\\c_# programs\\C# Hands-On\\Number & Mathematical Logic\\Number & Mathematical Logic.csproj": {}
+    "C:\\Users\\savio\\OneDrive\\Desktop\\delete after use\\C# Hands-On\\Number & Mathematical Logic\\Number & Mathematical Logic.csproj": {}
   },
   "projects": {
-    "C:\\SHEGIN SAVIO S S\\c_sharp\\c_# programs\\C# Hands-On\\Number & Mathematical Logic\\Number & Mathematical Logic.csproj": {
+    "C:\\Users\\savio\\OneDrive\\Desktop\\delete after use\\C# Hands-On\\Number & Mathematical Logic\\Number & Mathematical Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SHEGIN SAVIO S S\\c_sharp\\c_# programs\\C# Hands-On\\Number & Mathematical Logic\\Number & Mathematical Logic.csproj",
+        "projectUniqueName": "C:\\Users\\savio\\OneDrive\\Desktop\\delete after use\\C# Hands-On\\Number & Mathematical Logic\\Number & Mathematical Logic.csproj",
         "projectName": "Number & Mathematical Logic",
-        "projectPath": "C:\\SHEGIN SAVIO S S\\c_sharp\\c_# programs\\C# Hands-On\\Number & Mathematical Logic\\Number & Mathematical Logic.csproj",
-        "packagesPath": "C:\\Users\\2483421\\.nuget\\packages\\",
-        "outputPath": "C:\\SHEGIN SAVIO S S\\c_sharp\\c_# programs\\C# Hands-On\\Number & Mathematical Logic\\obj\\",
+        "projectPath": "C:\\Users\\savio\\OneDrive\\Desktop\\delete after use\\C# Hands-On\\Number & Mathematical Logic\\Number & Mathematical Logic.csproj",
+        "packagesPath": "C:\\Users\\savio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\savio\\OneDrive\\Desktop\\delete after use\\C# Hands-On\\Number & Mathematical Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\2483421\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\savio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
