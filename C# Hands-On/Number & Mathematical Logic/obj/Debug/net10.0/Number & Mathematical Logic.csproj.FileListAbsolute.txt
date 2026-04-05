@@ -1,0 +1,14 @@
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\obj\Debug\net10.0\Number & Mathematical Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\obj\Debug\net10.0\Number & Mathematical Logic.AssemblyInfoInputs.cache
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\obj\Debug\net10.0\Number & Mathematical Logic.AssemblyInfo.cs
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\obj\Debug\net10.0\Number & Mathematical Logic.csproj.CoreCompileInputs.cache
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\bin\Debug\net10.0\Number & Mathematical Logic.exe
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\bin\Debug\net10.0\Number & Mathematical Logic.deps.json
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\bin\Debug\net10.0\Number & Mathematical Logic.runtimeconfig.json
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\bin\Debug\net10.0\Number & Mathematical Logic.dll
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\bin\Debug\net10.0\Number & Mathematical Logic.pdb
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\obj\Debug\net10.0\Number & Mathematical Logic.dll
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\obj\Debug\net10.0\refint\Number & Mathematical Logic.dll
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\obj\Debug\net10.0\Number & Mathematical Logic.pdb
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\obj\Debug\net10.0\Number & Mathematical Logic.genruntimeconfig.cache
+C:\SHEGIN SAVIO S S\c_sharp\c_# programs\C# Hands-On\Number & Mathematical Logic\obj\Debug\net10.0\ref\Number & Mathematical Logic.dll
